@@ -24,3 +24,4 @@ Add new code in:
    - python manage.py showmigrations
    - python manage.py migrate
    - python manage.py runserver
+# Django1
