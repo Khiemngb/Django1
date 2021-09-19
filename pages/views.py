@@ -7,3 +7,9 @@ def home_page(request):
 def about_page(request):
     return HttpResponse('about home')
 
+def contact_page(request):
+    return HttpResponse('contact page')
+
+
+
+

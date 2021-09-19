@@ -5,4 +5,5 @@ urlpatterns = [
     # Url to call to home_page function
     path('', views.home_page),
     path('about', views.about_page),
+    path('contact', views.contact_page),
 ]
